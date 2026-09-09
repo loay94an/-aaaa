@@ -1,0 +1,6 @@
+{
+  "name": "استوديو بناء المشاريع والأكواد",
+  "description": "منصة متكاملة لبناء هيكل المشاريع البرمجية، إدارة الملفات الشجرية، تحرير الأكواد، الفحص والمعاينة، التكامل مع GitHub، وتصدير حزم PWA و ZIP",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
